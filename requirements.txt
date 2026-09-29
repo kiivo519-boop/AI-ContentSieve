@@ -1,0 +1,4 @@
+# Python 3.10+; system FFmpeg/ffprobe must also be on PATH.
+customtkinter>=5.2.2,<6
+yt-dlp[default]>=2025.11.12
+openai-whisper>=20240930
