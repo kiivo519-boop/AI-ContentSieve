@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+outputs/
+.contentsieve-*/
+*.part
+*.log
+.env
+cookies*.txt
+test-results.txt
+validation-results.txt
